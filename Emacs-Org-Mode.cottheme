@@ -1,0 +1,57 @@
+{
+  "name": "Emacs Org Mode",
+  "metadata": {
+    "author": "Ailia",
+    "distributionURL": ""
+  },
+  "background": {
+    "color": "#282828"
+  },
+  "text": {
+    "color": "#d0d0d0"
+  },
+  "insertionPoint": {
+    "color": "#8cd0d3",
+    "usesSystemSetting": false
+  },
+  "selection": {
+    "color": "#2f2f2f",
+    "usesSystemSetting": false
+  },
+  "lineHighlight": {
+    "color": "#343434"
+  },
+  "invisibles": {
+    "color": "#505050"
+  },
+  "comments": {
+    "color": "#7f9f7f"
+  },
+  "keywords": {
+    "color": "#f0dfaf"
+  },
+  "strings": {
+    "color": "#cc9393"
+  },
+  "numbers": {
+    "color": "#f0dfaf"
+  },
+  "commands": {
+    "color": "#7cb8bb"
+  },
+  "types": {
+    "color": "#6fb86f"
+  },
+  "attributes": {
+    "color": "#93e0e3"
+  },
+  "values": {
+    "color": "#dcdccc"
+  },
+  "variables": {
+    "color": "#93e0e3"
+  },
+  "characters": {
+    "color": "#c0c0c0"
+  }
+}
